@@ -1,0 +1,9 @@
+.uk-container{
+    display: flex;
+    flex-direction: row;
+}
+.uk-child-width-expand{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
